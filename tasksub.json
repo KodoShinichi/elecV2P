@@ -109,7 +109,7 @@
       "time": "6 1-16/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "youthread.js"
+        "target": "https://raw.githubusercontent.com/LiuYuanwork/elecV2P/main/Taks-elecV2P/youthread_elecV2.js"
       }
     },
     {
