@@ -316,16 +316,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js"
-      }
-    },
-    {
-      "name": "滴滴出行Plus",
-      "type": "cron",
-      "time": "10 9 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js"
+        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js"
       }
     },
     {
