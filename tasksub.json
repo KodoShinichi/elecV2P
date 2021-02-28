@@ -82,7 +82,7 @@
       "time": "0/1 0,1,2,3,4,5 0,8,16 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png"
+        "target": "https://raw.githubusercontent.com/LiuYuanwork/QuantumultX_Script/main/joy_cwwdh.js"
       }
     },
     {
