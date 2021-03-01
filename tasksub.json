@@ -68,15 +68,6 @@
       }
     },
     {
-      "name": "京喜财富岛",
-      "type": "cron",
-      "time": "0 * * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js"
-      }
-    },
-    {
       "name": "宠汪汪积分兑换",
       "type": "cron",
       "time": "0/1 0,1,2,3,4,5 0,8,16 * * *",
