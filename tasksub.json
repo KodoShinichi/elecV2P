@@ -1,11 +1,7 @@
 {
   "name": "elecV2P 定时任务订阅",
   "author": "LiuYuanwork",
-<<<<<<< HEAD
   "desc": "导出的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。详细说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
-=======
-  "desc": " 导出的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。详细说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
->>>>>>> 499d2f0d795c235fa0ecb19d50526dfe2cad8d72
   "date": "2021-02-28 19:43:14",
   "list": [
     {
@@ -72,8 +68,6 @@
       }
     },
     {
-<<<<<<< HEAD
-=======
       "name": "宠汪汪积分兑换",
       "type": "cron",
       "time": "0/1 0,1,2,3,4,5 0,8,16 * * *",
@@ -92,7 +86,6 @@
       }
     },
     {
->>>>>>> 499d2f0d795c235fa0ecb19d50526dfe2cad8d72
       "name": "中青极速版（看看赚任务）",
       "type": "cron",
       "time": "30 6 * * *",
@@ -279,7 +272,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js"
-<<<<<<< HEAD
       }
     },
     {
@@ -289,8 +281,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js"
-=======
->>>>>>> 499d2f0d795c235fa0ecb19d50526dfe2cad8d72
       }
     },
     {
