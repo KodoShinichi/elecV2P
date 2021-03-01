@@ -46,7 +46,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/bububao.js"
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js"
       }
     },
     {
@@ -55,7 +55,7 @@
       "time": "*/20 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js"
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js"
       }
     },
     {
@@ -64,7 +64,7 @@
       "time": "*/30 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.js"
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/QQread.js"
       }
     },
     {
@@ -73,7 +73,7 @@
       "time": "0 0/10 0,1,2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js"
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/xiaole.js"
       }
     },
     {
